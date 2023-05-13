@@ -1,0 +1,1927 @@
+
+
+ body header{
+   
+    display: flex;
+  
+}
+
+header nav ul{
+ margin: 0%;
+ padding: 0%;
+ list-style: none;
+ display: flex;
+ gap: 80px;
+ 
+
+}
+
+
+
+
+
+
+body{
+    margin: 0%;
+}
+
+
+
+
+
+
+header nav ul{
+    position: absolute;
+    float: left;
+    left: 857px;
+    top: 20px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    
+
+}
+
+
+ 
+ 
+main section{
+    position: absolute;
+    top: 800px; 
+}
+   
+
+  
+header div.sfondo img{
+    position: absolute;
+    width: 1510px;
+    height: 897px;
+    left: 1px;
+}
+   
+
+body header  h2.titolo1{
+    color: #FFFFFF;
+  
+    transform: rotate(-90deg);
+    position: absolute;
+    width: 633px;
+    height: 129px;
+  
+    top: 200px;
+  
+    
+   
+ font-family: 'Rowdies';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 63.8974px;
+    line-height: 79px;
+
+}
+
+body header  h2.titolo2{
+    color: #FFFFFF;
+    transform: rotate(-90deg);
+    position: absolute;
+    width: 633px;
+    height: 129px;
+    
+ font-family: 'Rowdies';
+  
+    top: 10px;
+  
+    
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 63.8974px;
+    line-height: 79px;
+   
+
+}
+
+body  h2.titolo1{
+    position: relative;
+    float: right;
+    right: 1130px;
+}
+
+body  h2.titolo2{
+    position: relative;
+    float: right;
+    right: 1060px;
+}
+
+main section div.one{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    right: 10px;
+    
+  
+}
+
+main section img{
+    width: 272px;
+height: 185.5px;
+bottom: 90px;
+display: flex;
+
+}
+
+main section div.primo{
+
+    position: relative;
+    float: left;
+    left: 320px;
+    top: 200px;
+}
+
+main section div.secondo{
+    position: absolute;
+    float: left;
+    left: 1000px;
+    top: 200px;
+}
+
+main section div.two{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+main section div.terzo{
+    position: absolute;
+    float: left;
+    left: 320px;
+   top: 500px;
+}
+
+main section div.quarto{
+    position: absolute;
+    float: left;
+    left: 1000px;
+    top: 500px;
+    
+}
+
+main section div.three{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  
+}
+
+main section div.quinto{
+ position: absolute;
+  float: left;
+ left: 320px;
+ top: 800px;
+ }
+main section div.sesto{
+ position: absolute;
+     float: left;
+    left: 1000px ;
+    top: 800px;
+   
+}
+
+ main section.illustratori{
+    background-color:#FEE2AD ;
+    height: 1100px;
+    width: 1510px;
+ }
+
+main section div.one p{
+  color: white;
+  position: absolute;
+  left: 30px;
+ font-size: 20px;
+        
+  font-family: 'Inter', sans-serif;
+  font-style: normal
+ 
+       
+ }
+
+main section div.two P{
+    color: white;
+  position: absolute;
+  left: 30px;
+ font-size: 20px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal
+ }
+
+main section div.three p{
+   color: white;
+    position: absolute;
+   left: 40px;
+  font-size: 20px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal
+}
+
+main section div.secondo p{
+    position: absolute;
+    float: left;
+    left: 50px;
+       
+}
+
+main section div.sesto p{
+    position: absolute;
+    float: left;
+    left: 60px;
+    font-size: 20px;
+
+
+}
+
+main section div.primo p{
+
+ position: absolute;
+    float: left;
+    left: 30px;
+        
+
+
+
+}
+       
+main section div.terzo p{
+
+
+    position: absolute;
+    float: left;
+    left: 32px;
+}
+
+main section div.quarto p{
+
+
+    position: absolute;
+    float: left;
+    left: 35px;
+}
+
+
+main section div.quinto p{
+
+
+    position: absolute;
+    float: left;
+    left: 48px;
+}
+       
+
+
+header nav ul li.ciao{
+   
+      
+       display: inline-block;
+       background-position: center;
+       font-size: 20px;
+        font-family: 'Inter';
+   
+   
+}
+
+
+
+
+main section nav ul{
+    font-family: 'Inter';
+ font-style: normal;
+ font-weight: 900;
+ font-size: 20px;
+ list-style-type: none;
+ margin: 0%;
+ padding: 0%;
+ 
+
+  
+}
+
+main section nav ul li.ei{
+    position: absolute;
+  bottom: -35px;
+   left: 42px;
+}
+
+main section nav ul li.eh{
+    position: absolute;
+  bottom: -35px;
+   left: 42px;
+}
+
+main section nav ul li.iu{
+    position: absolute;
+  bottom: -35px;
+   left: 75px;
+}
+
+main section nav ul li.ui{
+    position: absolute;
+  bottom: -35px;
+   left: 75px;
+}
+
+main section nav ul li.gi{
+    position: absolute;
+  bottom: -35px;
+   left: 49px;
+}
+
+
+main section nav ul li.lo{
+    position: absolute;
+  bottom: -35px;
+   left: 92px;
+}
+
+
+body header div.rettangolo{
+    /* Rectangle 21 */
+
+
+position: absolute;
+width: 200px;
+height: 48px;
+left: 1258px;
+top: 10px;
+
+background-color: rgb(251, 15, 164);
+border-radius: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+body.camilo{
+    background-color:  #F79981;
+    min-height: 500px;
+
+}
+
+body main section div.titolocamilo{
+    position: relative;
+ width: 633px;
+ height: 103px;
+ left: 760px;
+ bottom: 700px;
+
+
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 700;
+ font-size: 39px;
+ line-height: 113px;
+
+
+ color: #FD2492;
+
+}
+
+
+
+body main section div.titolocamilo H2.cognomecamilo{
+
+    
+    position: relative;
+    float: left;
+    left: 152px;
+   bottom: 119px;
+   
+
+}
+
+body main section div.titolocamilo H2.nomecamilo{
+   
+    left: 127px;
+    float: left;
+    position: relative;
+   bottom: 119px;
+   
+
+}
+
+body main section div.rettangolocamilo{
+    /* Rectangle 13 */
+
+
+ position: relative;
+ width: 540px;
+ height: 59px;
+ left: 870px;
+ bottom: 685px;
+
+ background: #FFFFFF;
+ border-radius: 60px; 
+
+}
+
+main section div.rettangolo div.titolocamilo{
+    top: 80px;
+}
+
+main section div.testocamilo{
+    width: 450px;
+ color:#FFFFFF;
+ position: absolute;
+
+ left: 80px;
+ 
+
+ font-family: 'Inter';
+ font-style: normal;
+ font-size: 14px;
+ bottom: 1270px;
+
+
+
+
+}
+
+
+
+body main section div.fotoduecamilo img{
+    position: relative;
+    width: 462px;
+    height: 683.05px;
+
+ float: left;
+ left: 80px;
+ bottom: 935px;
+ 
+
+ 
+
+}
+
+
+body main section div.fotounocamilo img{
+    position: relative;
+
+
+ float: left;
+ left: 80px;
+ width: 463px;
+ height: 640px;
+ top: 452px;
+ 
+ 
+
+}
+
+main section div.testocamilo{
+    gap: 5px;
+}
+
+
+
+main section div.testocamilo p.primarigacamilo{
+    position: relative;
+ bottom: 2200px;
+  
+}
+
+main section div.testocamilo p.secondarigacamilo{
+    position: relative;
+  bottom: 2200px;
+  
+}
+
+main section div.testocamilo p.terzarigacamilo{
+    position: relative;
+  bottom:  2200px;
+
+}
+
+
+body main section div.fototrecamilo img{
+  
+ position: relative;
+ float: left;
+ 
+ bottom: 1955px;
+ left: 870px;
+ 
+
+ width: 540px;
+ height: 1723px;
+
+}
+
+
+body main section div.fotoquattrocamilo img{
+    position: absolute;
+    
+    width: 1340px;
+    height: 992px;
+ bottom: 600px;
+    left: 90px;
+}
+
+
+
+
+
+
+
+
+
+
+body.tim{
+    background-color: #FEE2ADED;
+   
+}
+
+body main section div.titolotim{
+
+ position: absolute;
+
+ width: 633px;
+ height: 103px;
+
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 700;
+ font-size: 50px;
+ line-height: 113px;
+
+
+
+ color: white;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+body main section div.titolotim H2.cognometim{
+    position: absolute;
+    float: left;
+    left: 295px;
+    bottom: 598px;
+ 
+   
+
+}
+
+
+body main section div.titolotim H2.nometim{
+    position: absolute;
+    float: left;
+    left: 120px;
+    bottom: 598px;
+ 
+   
+   
+
+}
+
+body main section div.rettangolotim{
+    /* Rectangle 13 */
+
+
+ position: absolute;
+ width: 480px;
+ height: 69px;
+ float: left;
+ left: 100px;
+ bottom: 2990px;
+ 
+
+ background: #FD2492;
+ border-radius: 60px; 
+
+}
+
+
+main section div.rettangolotim div.titolotim{
+
+   
+    position: relative;
+   
+    left: 760px;
+    bottom: 700px;
+   
+   
+    font-family: 'Poppins';
+    font-style: normal;
+   
+    font-size: 39px;
+   
+   
+   
+   
+
+
+  
+ color:#939EEE;
+
+ top: 80px;
+
+ 
+
+
+}
+    
+
+
+
+
+
+
+body main section div.fototretim img{
+    position: relative;
+    width: 1198.58px;
+    height: 275.54px; 
+   bottom: 900px;
+   left: 180px;
+
+ 
+
+
+
+}
+
+body main section div.fotoduetim img{
+    position: relative;
+    width: 537.16px;
+ height: 1066.72px;
+
+
+ float: left;
+ left: 870px;
+ bottom: 1235px;
+
+ 
+
+}
+
+
+body main section div.fotounotim img{
+    position: relative;
+    width: 537.16px;
+ height: 1066.72px; 
+ left: 120px;
+
+ bottom: 170px;
+    
+
+
+}
+
+
+body main section div.fotoquattrotim img{
+    position: absolute;
+    width: 1198.58px;
+    height: 275.54px; 
+  bottom: 400px;
+   left: 180px;
+
+ 
+
+
+
+}
+
+
+
+
+body main section div.testotim{
+    color: #FD2492;
+
+
+}
+
+
+body main section div.titolotim{
+    position: absolute;
+  
+}
+
+main section div.testotim{
+
+    max-width: 500px;
+    color: white;
+    position: absolute;
+   bottom: 2700px;
+   float: left;
+   left: 970px;
+  width: 450px;
+   font-size: 14px;
+    font-family: 'Inter';
+   font-style: normal;
+
+
+
+
+
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+body.karlotta{
+    background-color:  #F79981;
+    max-height: 1000px;
+}
+
+body main section div.titolokarlotta{
+    position: relative;
+    width: 633px;
+    height: 103px;
+   
+   
+   
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 39px;
+    line-height: 113px;
+   
+   
+    color: #FD2492;
+
+}
+
+
+
+body main section div.titolokarlotta H2.cognomekarlotta{
+    position: relative;
+    float: left;
+    left: 1200px;
+   
+  bottom: 803px;
+   
+
+}
+
+body main section div.titolokarlotta H2.nomekarlotta{
+    position: absolute;
+    float: left;
+    left: 837px;
+ 
+ bottom: 697px;
+   
+
+}
+
+body main section div.rettangolokarlotta{
+    /* Rectangle 13 */
+
+
+ position: relative;
+ 
+
+ background: white;
+ border-radius: 60px; 
+
+ width: 600px;
+ height: 59px;
+ bottom: 670px;
+ left: 820px;
+
+
+  
+
+
+  
+
+}
+
+
+
+main section div.testokarlotta{
+    max-width: 450px;
+ color: white;
+ position: relative;
+
+ left: 120px;
+ bottom: 600px;
+
+ font-family: 'Inter';
+ font-style: normal;
+ font-size: 14px;
+ 
+ 
+
+
+}
+
+main section div.fotounokarlotta img{
+    bottom: 400px;
+    position: relative;
+    float: left;
+    width: 487px;
+ height: 860px;
+ left: 120px;
+    
+}
+
+main section div.titolokarlotta{
+    position: relative;
+    float: left;
+  
+}
+
+main section div.fotoduekarlotta img{
+   bottom: 400px;
+    position: relative;
+    float: left;
+    width: 487px;
+    height: 860px;
+    left: 400px;
+       
+    
+}
+
+main section div.fototrekarlotta img{
+    bottom: 100px;
+    position: relative;
+    float: left;
+    width: 487.06px;
+ height: 487.06px;
+ left: 120px;
+    
+}
+
+main section div.fotoquattrokarlotta img{
+   bottom: 100px;
+    position: relative;
+    float: left;
+    width: 487.06px;
+ height: 487.06px;
+ left: 400px;
+    
+}
+
+
+main section div.fotocinqueokarlotta img{
+  
+     position: relative;
+     float: left;
+     width: 1264px;
+     height: 409px;
+     top: 200px;
+     left: 120px;
+     
+  
+     
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body.xoana{
+    background-color: #FEE2ADED;
+    
+}
+
+body main section div.titoloxoana{
+
+ position: relative;
+
+ width: 633px;
+ height: 103px;
+ top: 20px;
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 700;
+ font-size: 39px;
+ line-height: 113px;
+
+
+
+ color: white;
+
+
+
+
+
+}
+
+
+
+
+body main section div.rettangoloxoana{
+    /* Rectangle 13 */
+
+
+ position: relative;
+ width: 580px;
+ height: 59px;
+ bottom: 700px;
+ left: 110px;
+ float: left;
+ 
+
+ background: #FD2492;
+ border-radius: 60px; 
+
+}
+
+
+
+
+main section div.fotounoxoana img{
+    position: relative;
+ bottom: 550px;
+    float: left;
+   left: 120px;
+    width: 725px;
+ height: 1456px;
+}
+
+main section div.fotoduexoana img{
+
+    position: relative;
+    
+    float: left;
+    left: 350px;
+    width: 325px;
+    height: 1456px;
+    bottom: 550px;
+    
+
+}
+    
+
+main section div.fototrexoana img{
+
+    position: relative;
+    
+    float: left;
+  left: 135px;
+  width: 1252px;
+ height: 941px;
+ bottom: 200px;
+
+   
+
+}
+    
+   
+
+   
+
+    
+
+main section div.testoxoana{
+
+    max-width: 450px;
+    color: #FD2492;
+    position: relative;
+   
+   float: left;
+   left: 470px;
+    bottom: 740px;
+   font-size: 14px;
+    font-family: 'Inter';
+   font-style: normal;
+
+
+
+
+}
+  
+
+
+
+body main section div.titoloxoana H2.nomexoana{
+    position: relative;
+    float: left;
+    bottom: 855px;
+    max-width: 500px;
+    left: 130px;
+  
+   
+   
+
+}
+
+
+body main section div.titoloxoana H2.cognomexoana{
+    position: relative;
+    float: left;
+    max-width: 500px;
+ bottom: 855px;
+ left: 170px;
+
+}
+
+
+body main section div.testoxoana{
+    color: #FD2492;
+
+}
+
+
+body main section div.titoloxoana{
+position: relative;
+    
+    
+   
+    width: 633px;
+    height: 103px;
+   
+ color: white;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 39px;
+    line-height: 113px;
+    
+    
+    
+    
+   
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body.linn{
+    background-color:  #F79981;
+}
+
+body main section div.titololinn{
+    position: relative;
+ width: 633px;
+ height: 103px;
+ 
+ top: 20px;
+
+
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 700;
+ font-size: 39px;
+ line-height: 113px;
+
+
+ color: #FD2492;
+
+}
+
+
+
+body main section div.titololinn H2.cognomelinn{
+    position: relative;
+    float: left;
+    left: 1040px;
+  bottom: 840px;
+   
+
+}
+
+body main section div.titololinn H2.nomelinn{
+
+    position: relative;
+   float: left;
+   left: 1000px;
+   bottom: 840px;
+}
+   
+
+body main section div.rettangololinn{
+    /* Rectangle 13 */
+
+
+ position: relative;
+ width: 399px;
+ height: 59px;
+ left: 970px;
+ bottom: 685px;
+
+ background: white;
+ border-radius: 60px; 
+
+}
+
+main section div.rettangololinn div.titololinn{
+    top: 80px;
+}
+
+
+
+main section div.testolinn{
+    max-width: 450px;
+ color:#FFFFFF;
+ position: relative;
+
+ left: 100px;
+ bottom: 650px;
+ font-family: 'Inter';
+ font-style: normal;
+ font-size: 14px;
+
+
+
+
+
+}
+
+main section div.fotounolinn img{
+   
+    position: absolute;
+    left: 130px;
+    
+    width: 1258px;
+ height: 485px;
+    
+
+}
+
+
+
+main section div.fotoduelinn img{
+   
+    position: absolute;
+    top: 700px;
+    left: 130px;
+    width: 309px;
+    height: 769px;
+}
+
+main section div.fototrelinn img{
+   
+    position: absolute;
+    top: 700px;
+    left: 615px;
+    width: 309px;
+    height: 769px;
+}
+
+main section div.fotoquattrolinn img{
+   
+    position: absolute;
+    top: 700px;
+    left: 1085px;
+    width: 309px;
+ height: 769px;
+   
+
+}
+
+main section div.titololinn{
+    position: absolute;
+    float: left;
+   
+}
+
+
+footer div.elementolinn p{
+    color: #F79981;
+   left: 100px;
+   top: 2500px;
+   position: absolute;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body.laboca{
+    background-color: #FEE2AD;
+}
+
+body main section div.titololaboca{
+
+ position: relative;
+
+ width: 633px;
+ height: 103px;
+ 
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 700;
+ font-size: 39px;
+ line-height: 113px;
+ color: #FFFFFF;
+
+
+}
+
+
+
+body main section div.titololaboca H2.cognomelaboca{
+    position: relative;
+    float: right;
+    bottom: 807px;
+    right: 620px;
+   
+}
+
+body main section div.titololaboca H2.nomelaboca{
+    position: relative;
+    float: right;
+   right: 890px;
+    bottom: 807px;
+  
+  
+   
+
+}
+
+body main section div.rettangololaboca{
+    /* Rectangle 13 */
+ position: relative;
+ width: 310px;
+ left: 100px;
+ height: 65px;
+ bottom: 670px;
+ background: #FD2492;
+ border-radius: 60px; 
+
+}
+
+
+main section div.rettangololaboca div.titololaboca{
+    max-width: 500px;
+ color:white;
+ position: relative;
+ font-family: 'Inter';
+ font-style: normal;
+
+}
+    
+
+
+body main section div.fototrelaboca img{
+    position: absolute;
+ float: left;
+ width: 550px;
+ height: 484px;
+ top: 1145px;
+ left: 867px;
+
+}
+
+body main section div.fotoduelaboca img{
+    position: absolute;
+    width: 550px;
+    height: 758px;
+ top: 100px;
+ left: 867px;
+ 
+
+}
+
+
+body main section div.fotounolaboca img{
+    position: relative;
+    width: 520px;
+ height: 1881px;
+   right: 350px;
+ bottom: 420px;
+ 
+   
+  
+
+
+ 
+ 
+
+}
+
+
+
+
+body main section div.testolaboca{
+    color: #FD2492;
+
+}
+
+
+body main section div.titololaboca{
+    position: relative;
+    float: right;
+  
+   
+}
+
+main section div.testolaboca{
+
+    max-width: 450px;
+   
+    position: relative;
+    font-size: 14px;
+   
+   float: left;
+   left: 950px;
+    bottom: 510px;
+   
+    font-family: 'Inter';
+   font-style: normal;
+
+}
+  
+
+footer.home div.rettangolohome{
+ /* Rectangle 50 */
+
+
+  position: absolute;
+ width: 1510px;
+ height: 189px;
+  top: 1890px;
+
+
+background: #F79981;
+}
+
+
+footer div.lineauno{
+    /* Line 28 */
+
+
+ position: absolute;
+ width: 558px;
+ height: 0px;
+ color: white;
+ top: 1980px;
+
+ border: 4px solid ;
+}
+
+
+footer div.lineadue{
+    /* Line 28 */
+
+
+ position: absolute;
+ width: 558px;
+ height: 0px;
+ left: 943px;
+ top: 1980px;
+ color: white;
+ border: 4px solid;
+}
+
+
+
+
+footer div.chi nav.chisiamoei ul.chisiamoui{
+  
+    list-style: none;
+    display: flex;
+  position: absolute;
+  top: 1935px;
+   left: 675px;
+  
+   width: 249px;
+
+ font-size: 20px;
+
+ font-family: 'Poppins';
+  font-weight: 600;
+ line-height: 59px;
+
+ color: #939EEE;
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body.chisiamo{
+    background-color: #F79981;
+   
+}
+
+body main section  div.titolochisiamo{
+  
+ width: 707px;
+ height: 212px;
+ position: relative;
+
+ bottom: 560px;
+ left: 999px;
+
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 900;
+ font-size: 90px;
+ line-height: 212px;
+
+ color: white;
+
+ text-shadow: 0px 4px 4px rgba(107, 107, 107, 0.93);
+ transform: rotate(90deg);
+}
+
+main section div.rettangolounochisiamo{
+
+
+ /* Rectangle 44 */
+
+
+   position: absolute;
+ width: 298px;
+ height: 44px;
+ left: 180px;
+  bottom: 600px;
+
+ background: white;
+ border-radius: 60px;
+
+}
+
+main section div.primochisiamo img{
+    position: absolute;
+    bottom: 700px;
+    float: left;
+    left: 180px;
+    width: 300px;
+ height: 308px;
+ border-radius: 154px;
+}
+
+
+main section div.primochisiamo H2.nomeunochisiamo{
+    position: absolute;
+ width: 300px;
+ height: 48px;
+ left: 205px;
+ bottom: 568px;
+    
+
+ font-family: 'Inter';
+ font-style: normal;
+ font-weight: 900;
+ font-size: 32.66px;
+ line-height: 40px;
+
+ color: #FD2492;
+}
+
+main section div.rettangoloduechisiamo{
+
+
+    /* Rectangle 44 */
+    
+    
+    position: absolute;
+    width: 298px;
+    height: 44px;
+    left: 800px;
+   
+    bottom: 600px;
+    
+    background: white;
+    border-radius: 60px;
+    
+}
+
+
+
+    
+main section div.secondochisiamo H2.nomeduechisiamo{
+        position: absolute;
+     width: 300px;
+     height: 48px;
+     left: 862px;
+     bottom: 568px;
+    
+     font-family: 'Inter';
+     font-style: normal;
+     font-weight: 900;
+     font-size: 32.66px;
+     line-height: 40px;
+    
+     color: #FD2492;
+    
+}
+
+main section div.secondochisiamo img{
+        position: absolute;
+     
+        float: left;
+        left: 800px;
+        width: 300px;
+        height: 308px;
+        border-radius: 154px;
+        bottom: 700px;
+}
+    
+
+
+main section div.rettangolotrechisiamo{
+
+ /* Rectangle 44 */
+
+
+ position: absolute;
+ width: 298px;
+ height: 44px;
+ left: 180px;
+ top: 300px;
+
+ background:white;
+ border-radius: 60px;
+  
+}
+       
+main section div.terzochisiamo img{
+ position: absolute;
+ bottom: 80px;
+    float: left;
+ left: 180px;
+ width: 300px;
+ height: 308px;
+ border-radius: 154px;
+}
+       
+       
+main section div.terzochisiamo H2.nometrechisiamo{
+ position: absolute;
+  width: 300px;
+ height: 48px;
+ left: 205px;
+ top:275px;
+       
+    font-family: 'Inter';
+ font-style: normal;
+ font-weight: 900;
+  font-size: 32.66px;
+  line-height: 40px;
+     
+  color: #FD2492;
+}
+
+      
+
+main section div.rettangoloquattrochisiamo{
+
+
+    /* Rectangle 44 */
+    
+    
+    position: absolute;
+    width: 298px;
+    height: 44px;
+   left: 800px;
+    top: 300px;
+    
+    background: white;
+    border-radius: 60px;
+    
+}
+
+
+
+    
+main section div.quartochisiamo H2.nomequattrochisiamo{
+        position: absolute;
+     width: 300px;
+     height: 48px;
+     left: 830px;
+     top:275px;
+    
+     font-family: 'Inter';
+     font-style: normal;
+     font-weight: 900;
+     font-size: 32.66px;
+     line-height: 40px;
+    
+     color: #FD2492;
+    
+}
+
+main section div.quartochisiamo img{
+        position: absolute;
+       
+        float: left;
+        left: 800px;
+        width: 300px;
+        height: 308px;
+        border-radius: 154px;
+        bottom: 80px;
+}
+    
+
+main section div.rettangolocinquechisiamo{
+
+    /* Rectangle 44 */
+   
+   
+    position: absolute;
+    width: 298px;
+    height: 44px;
+    left: 180px;
+    top: 940px;
+   
+    background: white;
+    border-radius: 60px;
+     
+}
+          
+main section div.quintochisiamo img{
+    position: absolute;
+    top: 570px;
+    float: left;
+    left: 180px;
+    width: 300px;
+    height: 308px;
+    border-radius: 154px;
+}
+          
+          
+main section div.quintochisiamo H2.nomecinquechisiamo{
+    position: absolute;
+     width: 300px;
+    height: 48px;
+   left: 250px;
+    top: 915px;
+          
+       font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+     font-size: 32.66px;
+     line-height: 40px;
+        
+     color: #FD2492;
+}
+   
+
+
+main section div.rettangoloseichisiamo{
+
+
+    /* Rectangle 44 */
+    
+    
+    position: absolute;
+    width: 298px;
+    height: 44px;
+    left: 800px;
+    top: 940px;
+    
+    background: white;
+    border-radius: 60px;
+    
+}
+
+
+
+    
+main section div.sestochisiamo H2.nomeseichisiamo{
+        position: absolute;
+     width: 300px;
+     height: 48px;
+     left: 888px;
+    top: 915px;
+    
+     font-family: 'Inter';
+     font-style: normal;
+     font-weight: 900;
+     font-size: 32.66px;
+     line-height: 40px;
+    
+     color: #FD2492;
+    
+}
+
+main section div.sestochisiamo img{
+        position: absolute;
+        top: 570px;
+        float: left;
+        left: 800px;
+        width: 300px;
+        height: 308px;
+        border-radius: 154px;
+}
+
+footer.chisiamo{
+    background-color: #FEE2AD;
+    position: absolute;
+    width: 1470px;
+ height: 199px;
+ top: 1970px;
+ float: left;
+left: 20px;
+gap: 10px;
+
+}
+
+footer div.scrittechisiamo p.assistancechisiamo{
+    position: absolute;
+width: 167px;
+height: 36.87px;
+left: 83px;
+
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 27px;
+
+color: #FD2492;
+}
+
+footer div.scrittechisiamo p.cookiechisiamo{
+    position: absolute;
+width: 167px;
+height: 36.87px;
+left: 650px;
+
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 27px;
+
+color: #FD2492;
+}
+
+
+footer div.scrittechisiamo p.privacychisiamo{
+    position: absolute;
+width: 167px;
+height: 36.87px;
+left: 1240px;
+
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 27px;
+
+color: #FD2492;
+}
+
+
+footer div.scrittechisiamo p.eichisiamo{
+position: absolute;
+width: 270.16px;
+height: 28px;
+left: 83px;
+top: 130px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14.3784px;
+line-height: 17px;
+
+color: #FD2492;
+}
+
+
+footer div.acasochisiamo{
+
+    /* Rectangle 50 */
+    position: absolute;
+    width: 25px;
+    height: 30px;
+    left: 72px;
+ top: 230px;
+
+
+ 
+
+ background: #F79981;
+}
+
+
+footer div.imgchisiamo{
+    position: absolute;
+width: 115px;
+height: 59px;
+left: 570px;
+
+
+background: url(b611f32ad822dad00a25f66576166698.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+display: flex;
+gap: 70px;
+
+top: 110px;
+
+
+
+
+}
+
+footer div.imgchisiamo div.youtubechisiamo{
+    position: absolute;
+    float: right;
+    right: 47px;
+}
+
+
+
+footer div.lineachisiamo{
+   
+        /* Line 27 */
+
+    
+    position: absolute;
+    width: 1300px;
+    height: 0px;
+    left: 83px;
+    top: 90px;
+    
+    border: 1px solid #FD2492;
+}
